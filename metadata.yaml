@@ -1,0 +1,27 @@
+_repo: All-in-the-dark_75028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fanu, J. S. le
+    gutenberg_agent_id: '57785'
+    url: http://www.gutenberg.org/2009/agents/57785
+description: ''
+gutenberg_issued: '2025-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75028'
+language: en
+pgterms:marc905: 20071123213212lefanu
+pgterms:marc906: '1898'
+pgterms:marc907: GB
+production_note: Chris Hapka, Suzanne Shell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bDowney & Co., $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: All in the dark
+url: http://www.gutenberg.org/ebooks/75028
