@@ -1,11 +1,16 @@
 _repo: All-in-the-dark_75028
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75028-h/images/cover.jpg
 creator:
   author:
     agent_name: Fanu, J. S. le
     gutenberg_agent_id: '57785'
     url: http://www.gutenberg.org/2009/agents/57785
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75028#All-in-the-dark
 gutenberg_issued: '2025-01-03'
 gutenberg_type: Text
 identifiers:
